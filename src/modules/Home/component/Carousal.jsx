@@ -6,7 +6,7 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 const Home = () => {
     return (
         <div>
-            <OwlCarousel className='owl-theme' loop={true} lazyLoad={true} items={1}>
+            {/* <OwlCarousel className='owl-theme' loop={true} lazyLoad={true} items={1}>
                 <section className="main-slider">
                     <div className="item image">
                         <div className="slide-image slide-media">
@@ -56,7 +56,7 @@ const Home = () => {
                         </div>
                     </div>
                 </section>
-            </OwlCarousel>
+            </OwlCarousel> */}
         </div>
     )
 }
